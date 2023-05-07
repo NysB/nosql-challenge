@@ -11,5 +11,5 @@ For this assignment, I have been asked to:
 
 In this repository, you will find:
 - Resources folder: containing the JSON file with the data for this assignment; 
-- NoSQL_setup_starter.ipynb file: containing the code for the first two parts of the assignment;
-- NoSQL_analysis_starter.ipynb file: containing the code for the last part of the assignment. 
+- NoSQL_setup_starter.ipynb file: containing the code for part 1 and 2 of the assignment;
+- NoSQL_analysis_starter.ipynb file: containing the code for part 3 of the assignment. 
