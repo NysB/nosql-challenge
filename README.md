@@ -10,6 +10,6 @@ For this assignment, I have been asked to:
 ## Content
 
 In this repository, you will find:
-- Resources folder: 
-- xxx
-- xxx
+- Resources folder: containing the JSON file with the data for this assignment; 
+- NoSQL_setup_starter.ipynb file: containing the code for the first two parts of the assignment;
+- NoSQL_analysis_starter.ipynb file: containing the code for the last part of the assignment. 
